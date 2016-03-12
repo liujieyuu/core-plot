@@ -1,0 +1,1 @@
+The Core Plot release downloads have moved to https://github.com/core-plot/core-plot/releases.

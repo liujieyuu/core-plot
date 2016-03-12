@@ -1,0 +1,1 @@
+The Core Plot issue tracker has moved to https://github.com/core-plot/core-plot/issues.
